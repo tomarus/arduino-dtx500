@@ -5,7 +5,7 @@ Arduino MIDI input for DTX-500 Drum Controller
 
 Aw, they forgot MIDI input on this awesome drum controller.
 
-So here is is.
+So here it is.
 
 Schematics and pictures will follow, probably.
 
