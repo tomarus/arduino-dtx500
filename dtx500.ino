@@ -113,14 +113,14 @@ void loop() {
   }
 
   // Check if test knob is pressed. Loop through all notes once.
-  while (digitalRead(switchPin) == LOW) {
-    for (int i = 0; i < numpins; i++) {
-      noteon(i, 100);
-      delay(100);
-      noteoff(i);
-      delay(300);
-    }
-  }
+//  while (digitalRead(switchPin) == LOW) {
+//    for (int i = 0; i < numpins; i++) {
+//      noteon(i, 100);
+//      delay(100);
+//      noteoff(i);
+//      delay(300);
+//    }
+//  }
 }
 
 //
